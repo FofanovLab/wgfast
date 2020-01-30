@@ -32,6 +32,7 @@ requirements:
     - raxml 
     - picard 
     - mash
+    - skbio
     - ncbitk 
     - snakemake >=5 
     - logbook
